@@ -1,4 +1,4 @@
-## E-Learning PHP & MYSQL
+## E-Learning Project [ PHP & MYSQL ]
 
 Simple php project to upload videos with make lists, With a blogging section.
 
